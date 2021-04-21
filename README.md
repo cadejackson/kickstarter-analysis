@@ -6,12 +6,12 @@
 ---
 
 ## Analysis and Challenges:
-### The Theater Outcomes vs Launch visualization (Figure 1) 
+### Theater Outcomes vs Launch visualization (Figure 1) 
 #### This visualization was created in order to see if there was a correlation to successful campaigns and the month in which the campaigns were launched. 
 
 ![Theater_Outcomes_vs_Launch](https://github.com/cadejackson/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
-### The Outcomes vs Goals visualization (Figure 2) 
+### Outcomes vs Goals visualization (Figure 2) 
 #### This visualization was created in order to see if there was a correlation to the campaign fundraising goal and the percent chance of success.
 
 ![Outcomes_vs_Goals](https://github.com/cadejackson/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
